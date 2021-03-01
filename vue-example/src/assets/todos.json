@@ -1,0 +1,22 @@
+{ "todos" : [
+  {
+      "id": 1,
+      "title" : "Köp kaffe",
+      "done" : false
+  },
+  {
+    "id": 2,
+    "title" : "Köp kaka",
+    "done" : false
+  },
+  {
+    "id": 3,
+    "title" : "Brygg kaffe",
+    "done" : false
+  },
+  {
+    "id": 4,
+    "title" : "Drick kaffe",
+    "done" : false
+  }
+]}
